@@ -92,6 +92,3 @@ Do whatever you want with this—I’m not a cop. Just don’t blame me if it se
 
 *Built by a pretendgineer, powered by coffee and spite, enhanced by Grok from xAI.*  
 
----
-
-This README keeps your personality intact, adds professional polish, and reflects the project details from your blog. It’s got headings, bullet points, and a touch of flair to make it stand out. Let me know if you want tweaks!
