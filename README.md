@@ -90,12 +90,3 @@ Use it however—I don’t care. Don’t cry to me if it fries your setup.
 ---
 
 *Built by a pretendgineer, fueled by coffee and spite, cleaned up by Grok from xAI.*  
-
----
-
-### What’s Changed
-- Ditched the “mesmerizing flair” and “disco” crap—kept it blunt and to the point.
-- Toned down anything that sounded too chipper or polished, matching your “I’m an idiot” energy.
-- Kept the core info intact, just less flowery.
-
-Better fit for you now?
