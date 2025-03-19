@@ -1,7 +1,7 @@
 # ADHD 10 Key V2  
 *Why do things you need to be doing when you can make this instead?*  
 
-![ADD 10 Key V2](https://raw.githubusercontent.com/thePretendgineer/adhd10key/refs/heads/v2/KeypadV2.jpeg)
+![ADHD 10 Key V2](https://raw.githubusercontent.com/thePretendgineer/adhd10key/refs/heads/v2/KeypadV2.jpeg)
 
 
 ---
@@ -11,7 +11,7 @@ I very much recommend folks use their own code—I’m an idiot and have no idea
 ---
 
 ## What Is This?  
-Welcome to **ADD 10 Key V2**, the second iteration of my custom numpad project. Born from a mix of ADHD-fueled tinkering and a stubborn refusal to buy a pre-made solution, this little beast adds seamless functionality and mesmerizing RGB flair to any keyboard setup. It’s minimal, it’s chaotic, it’s got lights that vibe with your NumLock state—what more could you want?
+Welcome to **ADHD 10 Key V2**, the second iteration of my custom numpad project. Born from a mix of ADHD-fueled tinkering and a stubborn refusal to buy a pre-made solution, this little beast adds seamless functionality and mesmerizing RGB flair to any keyboard setup. It’s minimal, it’s chaotic, it’s got lights that vibe with your NumLock state—what more could you want?
 
 ---
 
@@ -25,7 +25,7 @@ Welcome to **ADD 10 Key V2**, the second iteration of my custom numpad project. 
 ---
 
 ## Project Overview  
-This project started with a problem: my Das Keyboard 4 didn’t have a numpad, and I wasn’t about to shell out for a separate one. Enter **ADD 10 Key V2**—a DIY solution cobbled together from an RP2040 microcontroller, some Cherry MX Browns, and a 3D-printed case that’s... let’s call it "characterful" after the front fell off mid-build. It’s powered by CircuitPython and the KMK library, with RGB LEDs that sync to NumLock for that extra dose of visual feedback. Check out the full saga on my blog: [The Front Fell Off: An ADD-venture](https://pretendgineer.com/the-front-fell-off-an-add-adventure/).
+This project started with a problem: my Das Keyboard 4 didn’t have a numpad, and I wasn’t about to shell out for a separate one. Enter **ADHD 10 Key V2**—a DIY solution cobbled together from an RP2040 microcontroller, some Cherry MX Browns, and a 3D-printed case that’s... let’s call it "characterful" after the front fell off mid-build. It’s powered by CircuitPython and the KMK library, with RGB LEDs that sync to NumLock for that extra dose of visual feedback. Check out the full saga on my blog: [The Front Fell Off: An ADHD-venture](https://pretendgineer.com/the-front-fell-off-an-add-adventure/).
 
 ---
 
